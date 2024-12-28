@@ -1,7 +1,7 @@
 # PPSSPP Adhoc Server
 
 ```
-docker run --port 27312:27312 -it ghcr.io/souler/ppsspp-adhoc
+docker run -p 27312:27312 -it ghcr.io/sandayudha040801/ppsspp-adhoc
 ```
 
 ## Contributors
